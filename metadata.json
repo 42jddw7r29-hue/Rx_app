@@ -1,0 +1,6 @@
+{
+  "name": "الراجيتة",
+  "description": "مساعد طبي رقمي عراقي ذكي لقراءة وتفسير الراجيتات والتحاليل الطبية بالعامية العراقية وبأمان تام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
